@@ -13,7 +13,7 @@ header h1{
 }
 main{
     
-    background-color: ghostwhite;
+    background-color: azure;
     display: block;
     float: left;
     width: 100%;
@@ -21,23 +21,27 @@ main{
 }
 main h2{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-left: 550px;
+    margin-left: 570px;
 }
 main h3{
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 20px;
 }
 main a{
     background-color: powderblue;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
 }
 main p{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 20px;
 }
 main img{
     width: 400px;
     height: 270px;
     margin-top: 15px;
+    margin-left: 20px;
 }
 
 main article{
@@ -51,7 +55,7 @@ footer{
     display: block;
     height: 180px;
     float: left;
-    background-color: black;
+    background-color: burlywood;
 }
 footer article{
     width: 20%;
@@ -60,11 +64,11 @@ footer article{
 }
 footer h4{
     font-size: 20px;
-    background-color: aliceblue;
     width: 210px;
 }
 footer a{
     margin-inline: 40px;
     font-size: 18px;
     float: left;
+    margin: 15px;
 }
