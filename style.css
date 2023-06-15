@@ -8,7 +8,7 @@ header{
     text-shadow: 1px 1px whitesmoke;
 }
 header h1{
-    text-align: center;
+    margin-left: 570px;
     padding-top: 50px;
 }
 main{
@@ -17,11 +17,11 @@ main{
     display: block;
     float: left;
     width: 100%;
-    height: 1300px;
+    height: 1325px;
 }
 main h2{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin-left: 570px;
+    margin-left: 580px;
 }
 main h3{
     font-size: 20px;
@@ -36,6 +36,7 @@ main a{
 main p{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     margin-left: 20px;
+    font-size: 20px;
 }
 main img{
     width: 400px;
@@ -53,7 +54,7 @@ main article{
 footer{
     width: 100%;
     display: block;
-    height: 180px;
+    height: 210px;
     float: left;
     background-color: burlywood;
 }
@@ -69,6 +70,5 @@ footer h4{
 footer a{
     margin-inline: 40px;
     font-size: 18px;
-    float: left;
-    margin: 15px;
+    margin-inline: 15px;
 }
