@@ -72,3 +72,9 @@ footer a{
     font-size: 18px;
     margin-inline: 15px;
 }
+.link-container{
+    display: flex;
+}  
+.link-container a{
+    margin-right: 10px;
+}
